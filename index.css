@@ -1,0 +1,79 @@
+#wid{
+
+    width: auto;
+    height: 200px;
+
+}
+#wider{
+    width: auto;
+    height: 300px;
+
+}
+#widers{
+    width: auto;
+    
+}
+.id-block {
+    width:500px;
+    height:340px;
+}
+h3{
+    text-align: center;
+    padding-bottom:50px ;
+}
+#root{
+    width: auto;
+    height: 200px;
+
+}
+#node{
+    width: 230px;
+    height: 210px;
+    border: 1px solid rgb(119, 117, 117);
+    float: left;
+    padding: 98px;
+    padding-left: 10px;
+    margin-left: 22px;
+}
+#nodes{
+    width: 230px;
+    height: 210px;
+    border: 1px solid rgb(119, 117, 117);
+    float: left;
+    padding: 98px;
+    padding-left: 10px;
+    margin-left: 22px;
+}
+#loop{
+    padding-bottom: 110px;
+}
+#todo{
+    height: 420px;
+}
+#todos{
+    height:420px ;
+}
+h4{
+    text-align: center;
+}
+#a{
+    text-decoration: none;
+}
+   /*
+      <div id="root">
+        <div id=nodes>
+            <img src="xxl-togrwthdfulsweat-dp-st15-tripr-original-imahfj5pnz46anrm.webp" id="loop" width="200px" height="220px">
+        </div>
+        <div id=node >
+            <img src="" alt="">
+        </div>
+        <div id=node >
+            <img src="" alt="">
+        </div>
+        <div id=node>
+            <img src="" alt="">
+        </div>
+        <div id=node >
+            <img src="" alt="">
+        </div>
+*/
